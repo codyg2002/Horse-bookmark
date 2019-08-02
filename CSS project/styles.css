@@ -1,0 +1,27 @@
+.bigbox{
+    border: 1px solid gray;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    box-shadow: 10px 10px 10px;
+    }
+.fact{
+    font-style: italic;
+}
+.ul{
+    list-style: none;
+}
+.span{
+    font-weight: bold;
+}
+.smallbox{
+    border: 5px solid gray;
+    margin-top: 10px;
+    padding: 10px;
+    border-style: double;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    }
